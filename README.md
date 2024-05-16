@@ -1,3 +1,2 @@
 # dio-java-basico
-Aqui guardo o conteúdo do curso de Java Básico.
-Alterando um arquivo de forma local.
+<p> Basic Java content, from Santander's Bootcamp in DIO. <br> Conteúdo que aborda Java Básico, do Bootcamp Santander 2024, na DIO.</p>
